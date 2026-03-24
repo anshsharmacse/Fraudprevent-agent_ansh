@@ -31,7 +31,7 @@
 
 <div align="left">
 
-### 🎯 Objective
+###  Objective
 Build an AI Agent that solves a **Real-World Problem** using OpenRouter API with structured output validation using **Pydantic models**.
 
 ### ✅ Requirements Fulfilled
@@ -45,7 +45,7 @@ Build an AI Agent that solves a **Real-World Problem** using OpenRouter API with
 | 📊 **Actionable Output** | Risk score, recommendations, red flags | ✅ |
 | 🌍 **Multi-language** | English, Hindi, Malayalam | ✅ |
 
-### 💡 Problem Solved
+###  Problem Solved
 **Fraud Detection for Indian Banks** - A real-world problem affecting millions of users daily with financial losses due to various scam types.
 
 </div>
@@ -99,14 +99,14 @@ graph TB
 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
-| 🎨 **Frontend** | Next.js 16 + TypeScript | React App with App Router |
-| 💅 **UI/UX** | Tailwind CSS + Framer Motion | Styling & Animations |
-| 🧩 **Components** | shadcn/ui | Pre-built UI library |
-| 🤖 **LLM** | OpenRouter - LLaMA 3 (Free) | AI Processing |
-| ✅ **Validation** | Pydantic Models | Structured Output |
-| 🗄️ **Database** | Prisma Schema | Data Modeling |
-| 🔌 **Backend** | Render + Railway Socket | Server & Real-time |
-| 🚀 **Deployment** | Vercel | Frontend Hosting |
+|  **Frontend** | Next.js 16 + TypeScript | React App with App Router |
+|  **UI/UX** | Tailwind CSS + Framer Motion | Styling & Animations |
+|  **Components** | shadcn/ui | Pre-built UI library |
+|  **LLM** | OpenRouter - LLaMA 3 (Free) | AI Processing |
+|  **Validation** | Pydantic Models | Structured Output |
+|  **Database** | Prisma Schema | Data Modeling |
+|  **Backend** | Render + Railway Socket | Server & Real-time |
+|  **Deployment** | Vercel | Frontend Hosting |
 
 </div>
 
@@ -114,14 +114,14 @@ graph TB
 
 ## 📑 Table of Contents
 
-- [🎯 Real-World Problem](#-real-world-problem)
-- [✨ Features](#-features)
-- [🤖 AI Agent Architecture](#-ai-agent-architecture)
+- [ Real-World Problem](#-real-world-problem)
+- [ Features](#-features)
+- [ AI Agent Architecture](#-ai-agent-architecture)
 - [🐍 Pydantic Validation Models](#-pydantic-validation-models)
 - [🔄 System Flow](#-system-flow)
 - [📊 Risk Analysis Logic](#-risk-analysis-logic)
 - [🌍 Multi-Language Support](#-multi-language-support)
-- [🚀 Quick Start](#-quick-start)
+- [Quick Start](#-quick-start)
 - [🌐 Deployment Guide](#-deployment-guide)
 - [📁 Project Structure](#-project-structure)
 - [🔧 API Reference](#-api-reference)
@@ -130,7 +130,7 @@ graph TB
 
 ---
 
-## 🎯 Real-World Problem
+##  Real-World Problem
 
 <div align="center">
 
@@ -143,7 +143,7 @@ mindmap
       ₹1.75 Lakh Crore Lost (2023)
       13,000+ Cases Daily
       60% Digital Fraud
-    🎯 Target Victims
+     Target Victims
       Bank Customers
       Senior Citizens
       First-time Users
