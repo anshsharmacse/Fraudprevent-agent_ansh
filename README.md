@@ -4,7 +4,7 @@
 
 ### *AI-Powered Fraud Detection System for Indian Banks*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=800&lines=🚀+Detect+Fraud+in+Real-Time;🤖+Powered+by+LLaMA+3+via+OpenRouter;🔒+Validated+with+Pydantic+Models;💳+Made+for+Indian+Banks" alt="Typing Animation" />
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/a6cde45a-f7d1-4d4e-b58f-e909d215793c" />
 
 ---
 
