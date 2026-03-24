@@ -405,35 +405,35 @@ flowchart TD
 
 ```mermaid
 graph TD
-    subgraph "Input Processing"
+    subgraph InputProcessing["Input Processing"]
         A[Transaction Description]
         B[Transaction Amount]
     end
     
-    subgraph "Pattern Detection"
-        C1[🚨 Cryptocurrency +3]
-        C2[⚡ Urgency Language +2]
-        C3[🌙 Late Night +1]
-        C4[👤 Unknown Recipient +2]
-        C5[🌍 International +1]
-        C6[💰 Large Amount +2]
-        C7[📈 Investment Scam +3]
-        C8[🎁 Lottery Scam +4]
-        C9[💼 Job Scam +3]
-        C10[❤️ Romance Scam +3]
-        C11[🔐 OTP/PIN Request +4]
+    subgraph PatternDetection["Pattern Detection"]
+        C1[Cryptocurrency +3]
+        C2[Urgency Language +2]
+        C3[Late Night +1]
+        C4[Unknown Recipient +2]
+        C5[International +1]
+        C6[Large Amount +2]
+        C7[Investment Scam +3]
+        C8[Lottery Scam +4]
+        C9[Job Scam +3]
+        C10[Romance Scam +3]
+        C11[OTP PIN Request +4]
     end
     
-    subgraph "Safe Indicators"
-        D1[💼 Salary -2]
-        D2[💡 Bills -2]
-        D3[👨‍👩‍👧 Family -1]
-        D4[🏦 Bank FD -2]
+    subgraph SafeIndicators["Safe Indicators"]
+        D1[Salary -2]
+        D2[Bills -2]
+        D3[Family -1]
+        D4[Bank FD -2]
     end
     
-    subgraph "Final Score"
-        E[Risk = Base(3) + Penalties - Bonuses]
-        F[Clamp 1-10]
+    subgraph FinalScore["Final Score"]
+        E["Risk = Base 3 + Penalties - Bonuses"]
+        F[Clamp 1 to 10]
     end
     
     A --> C1 & C2 & C3 & C4 & C5 & C7 & C8 & C9 & C10 & C11
