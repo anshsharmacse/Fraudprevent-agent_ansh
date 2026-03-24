@@ -2,7 +2,7 @@
 
 # 🛡️ Financial Transaction Risk Agent
 
-### *AI-Powered Fraud Detection System for Indian Banks*
+### *Multi Language AI-Powered Fraud Detection System for Indian Banks*
 
 <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/a6cde45a-f7d1-4d4e-b58f-e909d215793c" />
 
